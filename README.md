@@ -26,6 +26,11 @@
 
 🤖 **Ask me about** creating bots, websites, or games! I love helping others turn their ideas into reality.
 
+📫 **How to reach me:**
+- [VK](https://vk.com/rus_ik69)
+- [Telegram](https://t.me/norman_p3)
+- [Email](mailto:web3.p3@gmail.com)
+
 ⚡ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently.
 
 ---
@@ -34,10 +39,7 @@
 
 [![VK](https://img.shields.io/badge/VK-@rus_ik69-blue)](https://vk.com/rus_ik69)  
 [![Telegram](https://img.shields.io/badge/Telegram-@norman_p3-blue)](https://t.me/norman_p3)
-📫
-- [VK](https://vk.com/rus_ik69)
-- [Telegram](https://t.me/norman_p3)
-- [Email](mailto:web3.p3@gmail.com)
+
 ---
 
 ## Languages and Tools:
@@ -49,6 +51,8 @@
 ![C#](https://img.shields.io/badge/-C%23-green?logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-red?logo=cpp)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?logo=react)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-red?logo=roblox)
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 
@@ -85,7 +89,7 @@
 - Over 10 years working with children
 - Currently teaching computer science in schools
 - Created 10+ educational projects in Roblox Studio
-- Fluent in Lua, JavaScript, Kotlin, Draft, C#, C++, Python
+- Хорошо знаю Lua, JavaScript, Kotlin, Draft, C#, C++, Python, Node.js, React
 - Inspired students to pursue self-development
 
 ---
@@ -93,5 +97,4 @@
 ### Hobbies:
 
 I love sports, running, and snowboarding. I lead an active lifestyle and always seek new challenges.
-
 
