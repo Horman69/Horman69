@@ -1,30 +1,21 @@
-# Hi there! 👋
+# 🚀 Ruslan Iskenderov's Journey
 
-I'm **Ruslan Iskenderov** — Full-stack Developer, Game Creator, and Educator.
+👨‍🏫 **2009 - Started Teaching**  
+_Developed interactive teaching methods and educational tools._
 
-🎮 **Specialized in Game Development & Teaching**  
-🔭 **Actively working on Roblox and Unity projects**  
-📫 **Reach me at:** [email@example.com](mailto:email@example.com)
+🎮 **2015 - Entered Game Development**  
+_Began creating educational games for Roblox and Unity._
 
----
+🏆 **2020 - 10+ Projects Completed**  
+_Developed over 10 games and interactive projects in Roblox Studio._
 
-## 🚀 My Projects:
-
-- 🎮 [Castle Parkour Quest](https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest)
-- 🚀 [Stellar Sprint 2D](https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA)
-- 🧟 [Zombie Attack](https://www.roblox.com/games/14245011384/zombie-attack)
+👨‍💻 **2024 - Full-stack Developer**  
+_Working on exciting web and game development projects._
 
 ---
 
-## 💻 Languages I Use:
+### 🌟 Highlights:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-
----
-
-## ⚡ Fun Fact:
-
-I love inspiring students to create their own games!
-
+- 🔹 **10+ years** of teaching experience
+- 🔹 Specialized in **Roblox & Unity development**
+- 🔹 Expert in **full-stack development** (Node.js, React, Python)
