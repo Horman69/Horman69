@@ -16,12 +16,17 @@
 
 🤖 **Ask me about** game development in **Roblox Studio**, **Unity**, or creating websites with **JavaScript**, **Node.js**, and **React**. I also love helping others with game mechanics, AI integration, or creating educational content.
 
-📫 **How to reach me:**
-- [VK](https://vk.com/rus_ik69)
-- [Telegram](https://t.me/norman_p3)
-- [Email](mailto:web3.p3@gmail.com)
-
 ⚡ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently. I also use neural networks like GPT for code improvement, optimization, and project management.
+
+---
+
+## Connect with me:
+
+[![VK](https://img.shields.io/badge/VK-@rus_ik69-blue)](https://vk.com/rus_ik69)  
+[![Telegram](https://img.shields.io/badge/Telegram-@norman_p3-blue)](https://t.me/norman_p3)  
+[![Email](https://img.shields.io/badge/Email-web3.p3@gmail.com-orange)](mailto:web3.p3@gmail.com)
+
+---
 
 ---
 
