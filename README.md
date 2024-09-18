@@ -74,12 +74,18 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 ![Scrum](https://img.shields.io/badge/-Scrum-blue?logo=scrum)
 ![Gamedev](https://img.shields.io/badge/-Gamedev-blue?logo=gamedev)
 ![3D Modeling](https://img.shields.io/badge/-3D%20Modeling-blue?logo=3dmodeling)
+![Arduino](https://img.shields.io/badge/-Arduino-blue?logo=arduino)
+![STM32](https://img.shields.io/badge/-STM32-blue?logo=stm32)
+![Robotics](https://img.shields.io/badge/-Robotics-blue?logo=robotics)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-green?logo=raspberrypi)
 
 ### Environments:
-- **Roblox Studio:** Game development, scripting in Lua
-- **Unity:** Game design, C# scripting
-- **Web Development:** JavaScript (React, Node.js), HTML, CSS
-- **Back-end Development:** API development, databases, server management
+- **Roblox Studio:** Game development, scripting in Lua, educational projects
+- **Unity:** Game design, C# scripting, 3D modeling
+- **Web Development:** JavaScript (React, Node.js), TypeScript, HTML, CSS
+- **Back-end Development:** API development (REST, GraphQL), databases (PostgreSQL), server management
+- **Embedded Systems:** Arduino, STM32, robotics
+- **Raspberry Pi:** Microprocessor-based projects, hardware interfacing
 
 ---
 
