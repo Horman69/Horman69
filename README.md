@@ -1,61 +1,89 @@
 <!--
-**[YourUsername]/[YourUsername]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RuslanIskenderov/RuslanIskenderov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 # Hi 👋, I'm Ruslan Iskenderov
 
 🌍 **Full-stack Developer | Game Creator | Educator**
 
-👨‍🏫 Former **Computer Science Teacher**, experienced in teaching children and adults to program and build projects. 
+👨‍🏫 Former **Computer Science Teacher**, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in **Roblox Studio**.
 
-🔭 **Currently working on** developing interactive games, bots, and websites. 
+🔭 **Currently working on** developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms.
 
-🎮 I’ve been actively working with platforms like **Roblox Studio** and **Unity**, creating fun and engaging games.
+🎮 I’m actively working with platforms like **Roblox Studio** and **Unity**, creating exciting projects to inspire young learners.
 
-🌱 **Currently learning** advanced backend development and AI integration to make my projects even more dynamic.
+🌱 **Currently learning** advanced backend development and AI integration to enhance the interactivity of my projects.
 
-👯 **Looking to collaborate on** exciting development projects, especially game development and educational tools.
+👯 **Looking to collaborate on** projects in game development, cybersecurity, and education.
 
-🤖 **Ask me about** creating bots, websites, or games! I love helping others bring their ideas to life.
+🤖 **Ask me about** creating bots, websites, or games! I love helping others turn their ideas into reality.
 
-📫 **How to reach me:** [your.email@example.com](mailto:your.email@example.com)
+📫 **How to reach me:**
+- [VK](https://vk.com/rus_ik69)
+- [Telegram](https://t.me/norman_p3)
+- [Email](mailto:web3.p3@gmail.com)
 
-⚡ **Fun fact:** I’ve participated in many projects where I built both front-end and back-end systems from scratch!
+⚡ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently.
 
 ---
 
 ## Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yourname-blue)](https://linkedin.com/in/yourname)
+[![VK](https://img.shields.io/badge/VK-@rus_ik69-blue)](https://vk.com/rus_ik69)  
+[![Telegram](https://img.shields.io/badge/Telegram-@norman_p3-blue)](https://t.me/norman_p3)
 
 ---
 
 ## Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
+![Lua](https://img.shields.io/badge/-Lua-blue?logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin)
+![Draft](https://img.shields.io/badge/-Draft-lightblue?logo=draft)
+![C#](https://img.shields.io/badge/-C%23-green?logo=csharp)
+![C++](https://img.shields.io/badge/-C++-red?logo=cpp)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-red?logo=roblox)
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 
 ---
 
+## Education:
+
+📚 **LISK MSU** — Specialist in Cybersecurity (Advanced course)
+
+---
+
 ## GitHub Stats:
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ruslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuslanIskenderov&show_icons=true&theme=radical)
 
 ---
 
 ## Recent Repositories:
 
-- [Block Building Game](https://github.com/yourusername/block-building-game)
-- [AI Chatbot](https://github.com/yourusername/ai-chatbot)
-- [School Website](https://github.com/yourusername/school-website)
+- [Block Building Game](https://github.com/RuslanIskenderov/block-building-game)
+- [AI Chatbot](https://github.com/RuslanIskenderov/ai-chatbot)
+- [School Website](https://github.com/RuslanIskenderov/school-website)
 
 ---
 
 📊 **Languages Used in Repositories:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanIskenderov&theme=radical)
+
+---
+
+## Achievements:
+
+- Over 10 years working with children
+- 4 years teaching computer science in schools
+- Created 10+ educational projects in Roblox Studio
+- Fluent in Lua, JavaScript, Kotlin, Draft, C#, C++
+- Inspired students to pursue self-development
+
+---
+
+### Hobbies:
+
+I love sports, running, and snowboarding. I lead an active lifestyle and always seek new challenges.
 
