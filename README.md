@@ -1,12 +1,12 @@
 <!--
-**RuslanIskenderov/RuslanIskenderov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Horman69/Horman69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 # Hi 👋, I'm Ruslan Iskenderov
 
 🌍 **Full-stack Developer | Game Creator | Educator**
 
-👨‍🏫 Former **Computer Science Teacher**, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in **Roblox Studio**.
+👨‍🏫 **Computer Science Teacher**, with over 10 years of experience working with children and currently teaching computer science in schools. I've authored interactive methodologies and developed educational projects in **Roblox Studio**.
 
 🔭 **Currently working on** developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms.
 
@@ -64,28 +64,28 @@
 
 ## GitHub Stats:
 
-![Ruslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuslanIskenderov&show_icons=true&theme=radical)
+![Ruslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Horman69&show_icons=true&theme=radical)
 
 ---
 
 ## Recent Repositories:
 
-- [Block Building Game](https://github.com/RuslanIskenderov/block-building-game)
-- [AI Chatbot](https://github.com/RuslanIskenderov/ai-chatbot)
-- [School Website](https://github.com/RuslanIskenderov/school-website)
+- [Block Building Game](https://github.com/Horman69/block-building-game)
+- [AI Chatbot](https://github.com/Horman69/ai-chatbot)
+- [School Website](https://github.com/Horman69/school-website)
 
 ---
 
 📊 **Languages Used in Repositories:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanIskenderov&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horman69&theme=radical)
 
 ---
 
 ## Achievements:
 
 - Over 10 years working with children
-- 4 years teaching computer science in schools
+- Currently teaching computer science in schools
 - Created 10+ educational projects in Roblox Studio
 - Fluent in Lua, JavaScript, Kotlin, Draft, C#, C++, Python
 - Inspired students to pursue self-development
