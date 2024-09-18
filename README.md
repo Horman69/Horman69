@@ -10,7 +10,15 @@
 
 🔭 **Currently working on** developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms.
 
-🎮 I’m actively working with platforms like **Roblox Studio** and **Unity**, creating exciting projects to inspire young learners.
+🎮 I’m actively working with platforms like **Roblox Studio** and **Unity**, creating exciting projects to inspire young learners. You can check out some of my **Roblox projects** below:
+
+### Portfolio:
+1) 🏰 [Castle Parkour Quest](https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest)
+2) 🚀 [Stellar Sprint 2D (BETA)](https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA)
+3) ⛏️ [Minecraft in Roblox](https://www.roblox.com/games/18874295174/Minecraft-in-Roblox)
+4) 🐸 [Frog (BETA)](https://www.roblox.com/games/18765080658/BETA-Frog)
+5) 🏥 [Medical Darkness](https://www.roblox.com/games/15964209128/Medical-Darkness)
+6) 🧟 [Zombie Attack](https://www.roblox.com/games/14245011384/zombie-attack)
 
 🌱 **Currently learning** advanced backend development and AI integration to enhance the interactivity of my projects.
 
@@ -42,6 +50,7 @@
 ![Draft](https://img.shields.io/badge/-Draft-lightblue?logo=draft)
 ![C#](https://img.shields.io/badge/-C%23-green?logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-red?logo=cpp)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-red?logo=roblox)
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 
@@ -78,7 +87,7 @@
 - Over 10 years working with children
 - 4 years teaching computer science in schools
 - Created 10+ educational projects in Roblox Studio
-- Fluent in Lua, JavaScript, Kotlin, Draft, C#, C++
+- Fluent in Lua, JavaScript, Kotlin, Draft, C#, C++, Python
 - Inspired students to pursue self-development
 
 ---
@@ -86,4 +95,5 @@
 ### Hobbies:
 
 I love sports, running, and snowboarding. I lead an active lifestyle and always seek new challenges.
+
 
