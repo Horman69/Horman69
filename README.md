@@ -25,7 +25,7 @@
 [![VK](https://img.shields.io/badge/VK-@rus_ik69-blue)](https://vk.com/rus_ik69)  
 [![Telegram](https://img.shields.io/badge/Telegram-@norman_p3-blue)](https://t.me/norman_p3)  
 [![Email](https://img.shields.io/badge/Email-web3.p3@gmail.com-orange)](mailto:web3.p3@gmail.com)
-
+[Roblox](https://www.roblox.com/users/4058758679/profile#!/about)
 ---
 
 ---
