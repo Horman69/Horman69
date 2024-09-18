@@ -58,6 +58,7 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 ![Python](https://img.shields.io/badge/-Python-lightblue?logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 
 ### Tools & Frameworks:
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-red?logo=roblox)
@@ -66,6 +67,13 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?logo=graphql)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)
+![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=api)
+![API](https://img.shields.io/badge/-API-lightgrey?logo=api)
+![Scrum](https://img.shields.io/badge/-Scrum-blue?logo=scrum)
+![Gamedev](https://img.shields.io/badge/-Gamedev-blue?logo=gamedev)
+![3D Modeling](https://img.shields.io/badge/-3D%20Modeling-blue?logo=3dmodeling)
 
 ### Environments:
 - **Roblox Studio:** Game development, scripting in Lua
