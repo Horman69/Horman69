@@ -6,7 +6,7 @@
 
 🌍 **Full-stack Developer | Game Creator | Educator**
 
-👨‍🏫 Former **Computer Science Teacher**, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in **Roblox Studio**. My expertise covers a wide range of topics including game development, programming education, and full-stack web development.
+👨‍🏫 Computer Science Teacher, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in Roblox Studio.
 
 🔭 **Currently working on** developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms, such as **Roblox** and **Unity**.
 
