@@ -72,7 +72,6 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 ![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=api)
 ![API](https://img.shields.io/badge/-API-lightgrey?logo=api)
 ![Scrum](https://img.shields.io/badge/-Scrum-blue?logo=scrum)
-![Gamedev](https://img.shields.io/badge/-Gamedev-blue?logo=gamedev)
 ![3D Modeling](https://img.shields.io/badge/-3D%20Modeling-blue?logo=3dmodeling)
 ![Arduino](https://img.shields.io/badge/-Arduino-blue?logo=arduino)
 ![STM32](https://img.shields.io/badge/-STM32-blue?logo=stm32)
