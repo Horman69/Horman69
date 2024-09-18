@@ -1,6 +1,6 @@
 # Hey, I'm Ruslan Iskenderov! 👋
 
-🎮 **Game Developer** | 💻 **Full-stack Developer** | 👨‍🏫 **Educator**
+🌍 **Full-stack Developer | Game Creator | Educator**
 
 ---
 
@@ -52,3 +52,10 @@
 - [VK](https://vk.com/rus_ik69)
 - [Telegram](https://t.me/norman_p3)
 - [GitHub](https://github.com/Horman69)
+
+---
+
+## 📊 **Languages Used in Repositories:**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horman69&theme=radical)
+
