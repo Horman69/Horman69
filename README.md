@@ -26,11 +26,6 @@
 
 🤖 **Ask me about** creating bots, websites, or games! I love helping others turn their ideas into reality.
 
-📫 **How to reach me:**
-- [VK](https://vk.com/rus_ik69)
-- [Telegram](https://t.me/norman_p3)
-- [Email](mailto:web3.p3@gmail.com)
-
 ⚡ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently.
 
 ---
@@ -39,6 +34,7 @@
 
 [![VK](https://img.shields.io/badge/VK-@rus_ik69-blue)](https://vk.com/rus_ik69)  
 [![Telegram](https://img.shields.io/badge/Telegram-@norman_p3-blue)](https://t.me/norman_p3)
+📫
 - [VK](https://vk.com/rus_ik69)
 - [Telegram](https://t.me/norman_p3)
 - [Email](mailto:web3.p3@gmail.com)
