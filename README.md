@@ -131,10 +131,4 @@ In my free time, I enjoy:
 - **Creative Work:** Creating virtual worlds, exploring new technologies, and expanding my expertise in game design
 - **AI & Neural Networks:** Exploring how AI can be integrated into games and educational projects for enhanced user experience
 
- ███╗   ██╗ ██████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗   
- ████╗  ██║██╔═══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║   
- ██╔██╗ ██║██║   ██║██████╔╝██╔████╔██║███████║██╔██╗ ██║  
- ██║╚██╗██║██║   ██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║    
- ██║ ╚████║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║   
- ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ 
 
