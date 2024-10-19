@@ -19,12 +19,7 @@
 ⚡ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently. I also use neural networks like GPT for code improvement, optimization, and project management.
 
 ---
-   ███╗   ██╗ ██████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗   
-   ████╗  ██║██╔═══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║   
-   ██╔██╗ ██║██║   ██║██████╔╝██╔████╔██║███████║██╔██╗ ██║  
-   ██║╚██╗██║██║   ██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║    
-   ██║ ╚████║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║   
-   ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ 
+   
 
 ## Connect with me:
 
