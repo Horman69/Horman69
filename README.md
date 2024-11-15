@@ -43,7 +43,7 @@ Here are some of my top projects where I worked on everything from concept to fi
 | 🐸 **Frog (BETA)**               | Fun and dynamic platforming experience          | [Play Now](https://www.roblox.com/games/18765080658/BETA-Frog)                  |
 | 🏥 **Medical Darkness**          | Hospital horror escape game                     | [Play Now](https://www.roblox.com/games/15964209128/Medical-Darkness)           |
 | 🧟 **Zombie Attack**             | Defend yourself from waves of zombies           | [Play Now](https://www.roblox.com/games/14245011384/zombie-attack)              |
-
+| 😈 **Horror[2025]**              | Can you survive in the maze?                    | [Play Now](https://www.roblox.com/games/131614383251689/Horror-2025)            |
 ---
 
 ## 💻 My Technical Skills
