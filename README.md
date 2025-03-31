@@ -7,7 +7,6 @@
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Horman69&amp;color=blueviolet">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
 </div>
-Руслан Искендеров シ
 <!--
 RuslanIskenderov/RuslanIskenderov is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
