@@ -1,11 +1,11 @@
-# Hi 👋, I'm Ruslan Iskenderov
+# Hi 👋, I'm Ruslan Iskenderov (Руслан Искендеров シ web3.p3@gmail.com)
 <div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="Programming"/>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Horman69?style=social">
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Horman69&amp;color=blueviolet">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
 </div>
-Руслан Искендеров シ, [31.03.2025 11:16]
+Руслан Искендеров シ
 <!--
 RuslanIskenderov/RuslanIskenderov is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
