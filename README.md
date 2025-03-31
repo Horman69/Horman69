@@ -1,4 +1,5 @@
 # Hi 👋, I'm Ruslan Iskenderov
+🌍 Full-stack Developer | Game Creator | Educator
 (Руслан Искендеров シ web3.p3@gmail.com)
 <div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="Programming"/>
 
@@ -11,9 +12,8 @@
 RuslanIskenderov/RuslanIskenderov is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
-# Hi 👋, I'm Ruslan Iskenderov
 
-🌍 Full-stack Developer | Game Creator | Educator
+
 
 👨‍🏫Computer Science Teacher, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in Roblox Studio. My expertise covers a wide range of topics including game development, programming education, and full-stack web development.
 
