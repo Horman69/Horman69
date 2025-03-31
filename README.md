@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ruslan Iskenderov
 🌍 Full-stack Developer | Game Creator | Educator
-(Руслан Искендеров シ web3.p3@gmail.com)
+ web3.p3@gmail.com
 <div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="Programming"/>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Horman69?style=social">
