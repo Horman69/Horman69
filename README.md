@@ -1,135 +1,52 @@
-<!--
-**RuslanIskenderov/RuslanIskenderov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+GitHub Copilot
+Hi 👋, I'm Ruslan Iskenderov
+<div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="Programming"/>
 
-# Hi 👋, I'm Ruslan Iskenderov
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Horman69?style=social">
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Horman69&amp;color=blueviolet">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+</div>
+🎯 Professional Summary
+Senior Game Developer & EdTech Specialist with 10+ years of experience in educational game development and computer science instruction.
+graph LR
+    A[Game Development] --> B[Education]
+    B --> C[Technology Integration]
+    C --> D[Student Success]
+    D --> A
+🛠️ Tech Stack
+<div align="center">
+Category	Technologies
+Languages	
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white">
+Game Engines	
+<img alt="Roblox" src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&amp;logo=roblox&amp;logoColor=white">
+<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white">
+Web Development	
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
+Databases	
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">
+</div>
+🎮 Featured Projects
+<table> <tr> <td align="center"> <a href="https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest"> <img src="https://img.shields.io/badge/Castle%20Parkour%20Quest-FF0000?style=for-the-badge" alt="Castle Parkour Quest"/> </a> <br> Advanced parkour mechanics, 100K+ plays </td> <td align="center"> <a href="https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA"> <img src="https://img.shields.io/badge/Stellar%20Sprint%202D-00FF00?style=for-the-badge" alt="Stellar Sprint 2D"/> </a> <br> Innovative 2D mechanics in Roblox </td> </tr> </table>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horman69&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Horman69&theme=radical"/> </div>
+🎓 Education & Certifications
+LISK MSU - Cybersecurity Specialist
+Unity Certified Developer
+Roblox Certified Developer
+🤝 Let's Connect
+<div align="center">
 
-🌍 **Full-stack Developer | Game Creator | Educator**
-
-👨‍🏫**Computer Science Teacher**, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in **Roblox Studio**. My expertise covers a wide range of topics including game development, programming education, and full-stack web development.
-
-🔭 **Currently working on** developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms, such as **Roblox** and **Unity**.
-
-🌱 **Currently learning** advanced backend development, AI integration, and exploring new frontiers in game design and interactivity. I also have a growing interest in fantasy and post-apocalyptic game genres.
-
-👯 **Looking to collaborate on** projects in game development, cybersecurity, AI, and education. I’m always open to new ideas and opportunities to collaborate with like-minded creators.
-
-🤖 **Ask me about** game development in **Roblox Studio**, **Unity**, or creating websites with **JavaScript**, **Node.js**, and **React**. I also love helping others with game mechanics, AI integration, or creating educational content.
-
-⚡ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently. I also use neural networks like GPT for code improvement, optimization, and project management.
-
----
-   
-
-## Connect with me:
-
-[![VK](https://img.shields.io/badge/VK-@rus_ik69-blue)](https://vk.com/rus_ik69)  
-[![Telegram](https://img.shields.io/badge/Telegram-@norman_p3-blue)](https://t.me/norman_p3)  
-[![Email](https://img.shields.io/badge/Email-web3.p3@gmail.com-orange)](mailto:web3.p3@gmail.com)
-
----
-
----
- [Roblox](https://www.roblox.com/users/4058758679/profile#!/about)
-## 🚀 Projects
-
-Here are some of my top projects where I worked on everything from concept to final execution:
-
-| Project Name                    | Description                                     | Link                                                                 |
-|----------------------------------|-------------------------------------------------|----------------------------------------------------------------------|
-| 🏰 **Castle Parkour Quest**      | Challenging parkour game in Roblox              | [Play Now](https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest)  |
-| 🚀 **Stellar Sprint 2D (BETA)**  | Fast-paced 2D space adventure                   | [Play Now](https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA) |
-| ⛏️ **Minecraft in Roblox**       | Minecraft-inspired survival and creativity      | [Play Now](https://www.roblox.com/games/18874295174/Minecraft-in-Roblox)        |
-| 🐸 **Frog (BETA)**               | Fun and dynamic platforming experience          | [Play Now](https://www.roblox.com/games/18765080658/BETA-Frog)                  |
-| 🏥 **Medical Darkness**          | Hospital horror escape game                     | [Play Now](https://www.roblox.com/games/15964209128/Medical-Darkness)           |
-| 🧟 **Zombie Attack**             | Defend yourself from waves of zombies           | [Play Now](https://www.roblox.com/games/14245011384/zombie-attack)              |
-| 😈 **Horror[2025]**              | Can you survive in the maze?                    | [Play Now](https://www.roblox.com/games/131614383251689/Horror-2025)            |
----
-
-## 💻 My Technical Skills
-
-Here’s a detailed list of the programming languages, tools, and technologies I actively work with:
-
-### Languages:
-![Lua](https://img.shields.io/badge/-Lua-blue?logo=lua)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin)
-![C#](https://img.shields.io/badge/-C%23-green?logo=csharp)
-![C++](https://img.shields.io/badge/-C++-red?logo=cpp)
-![Python](https://img.shields.io/badge/-Python-lightblue?logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
-
-### Tools & Frameworks:
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-red?logo=roblox)
-![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
-![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?logo=graphql)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)
-![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=api)
-![API](https://img.shields.io/badge/-API-lightgrey?logo=api)
-![Arduino](https://img.shields.io/badge/-Arduino-blue?logo=arduino)
-![STM32](https://img.shields.io/badge/-STM32-blue?logo=stm32)
-![Robotics](https://img.shields.io/badge/-Robotics-blue?logo=robotics)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-green?logo=raspberrypi)
-
-### Environments:
-- **Roblox Studio:** Game development, scripting in Lua, educational projects
-- **Unity:** Game design, C# scripting, 3D modeling
-- **Web Development:** JavaScript (React, Node.js), TypeScript, HTML, CSS
-- **Back-end Development:** API development (REST, GraphQL), databases (PostgreSQL), server management
-- **Embedded Systems:** Arduino, STM32, robotics
-- **Raspberry Pi:** Microprocessor-based projects, hardware interfacing
-
----
-
-## 🎓 Education
-
-📚 **LISK MSU** — Specialist in Cybersecurity (Advanced course). My background in cybersecurity provides me with an extra layer of understanding in developing secure and reliable applications and systems.
-
----
-
-## 🏆 Achievements
-
-- 10+ years of experience working with children and in education
-- 4 years teaching computer science in schools
-- Created 10+ educational projects in **Roblox Studio**
-- Proficient in multiple programming languages and game development platforms
-- Managed and mentored students to create their own projects
-
----
-
-## 📈 GitHub Stats
-
-![Ruslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Horman69&show_icons=true&theme=radical)
-
----
-
-## 🌍 Recent Repositories
-
-Here are some of my public repositories where I focus on education, AI, and game development:
-
-- [Block Building Game](https://github.com/Horman69/block-building-game) — A game for kids to learn construction and basic programming concepts.
-- [AI Chatbot](https://github.com/Horman69/ai-chatbot) — A chatbot project with AI integration for educational purposes.
-- [School Website](https://github.com/Horman69/school-website) — Interactive website for school projects.
-
----
-
-## 📊 Languages Used in Repositories
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horman69&theme=radical)
-
----
-
-## 🏃‍♂️ Hobbies and Interests
-
-In my free time, I enjoy:
-- **Sports:** Running, snowboarding, mountain climbing, and hiking
-- **Creative Work:** Creating virtual worlds, exploring new technologies, and expanding my expertise in game design
-- **AI & Neural Networks:** Exploring how AI can be integrated into games and educational projects for enhanced user experience
+<img alt="VK" src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&amp;logo=vk&amp;logoColor=white">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white">
+<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+</div>
+<div align="center"> <sub>🚀 Open for collaboration and exciting projects!</sub> </div> <details> <summary>📈 Detailed Statistics</summary>
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Horman69&amp;theme=radical">
+</details>
 
 
