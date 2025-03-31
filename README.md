@@ -41,6 +41,8 @@ Here are some of my top projects where I worked on everything from concept to fi
 
 | Project Name                    | Description                                     | Link                                                                 |
 |----------------------------------|-------------------------------------------------|----------------------------------------------------------------------|
+| 🔥 **DOIDEP**                    | A mysterious and thrilling adventure            | [Play Now](https://www.roblox.com/games/95858979503046/DOIDEP)                  |
+| 🏃 **Challenge Run Obby**        | Test your skills in this challenging obby       | [Play Now](https://www.roblox.com/games/120396739913396/Challenge-Run-Obby)     |
 | 🏰 **Castle Parkour Quest**      | Challenging parkour game in Roblox              | [Play Now](https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest)  |
 | 🚀 **Stellar Sprint 2D (BETA)**  | Fast-paced 2D space adventure                   | [Play Now](https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA) |
 | ⛏️ **Minecraft in Roblox**       | Minecraft-inspired survival and creativity      | [Play Now](https://www.roblox.com/games/18874295174/Minecraft-in-Roblox)        |
@@ -48,8 +50,6 @@ Here are some of my top projects where I worked on everything from concept to fi
 | 🏥 **Medical Darkness**          | Hospital horror escape game                     | [Play Now](https://www.roblox.com/games/15964209128/Medical-Darkness)           |
 | 🧟 **Zombie Attack**             | Defend yourself from waves of zombies           | [Play Now](https://www.roblox.com/games/14245011384/zombie-attack)              |
 | 😈 **Horror[2025]**              | Can you survive in the maze?                    | [Play Now](https://www.roblox.com/games/131614383251689/Horror-2025)            |
-| 🏃 **Challenge Run Obby**        | Test your skills in this challenging obby       | [Play Now](https://www.roblox.com/games/120396739913396/Challenge-Run-Obby)     |
-| 🔥 **DOIDEP**                    | A mysterious and thrilling adventure            | [Play Now](https://www.roblox.com/games/95858979503046/DOIDEP)                  |
 
 ---
 
