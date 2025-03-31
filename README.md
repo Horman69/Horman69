@@ -1,33 +1,31 @@
 # Hi 👋, I'm Ruslan Iskenderov
-🌍 Full-stack Developer | Game Creator | Educator
- web3.p3@gmail.com
-<div align="center"> <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="Programming"/>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Horman69?style=social">
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Horman69&amp;color=blueviolet">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400" alt="Programming"/>
+
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Horman69?style=social">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Horman69&color=blueviolet">
+  <a href="https://www.linkedin.com/in/ruslan-iskenderov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
 </div>
-<!--
-RuslanIskenderov/RuslanIskenderov is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
 
-
-
-
-👨‍🏫Computer Science Teacher, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in Roblox Studio. My expertise covers a wide range of topics including game development, programming education, and full-stack web development.
-
-🔭 Currently working on developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms, such as Roblox and Unity.
-
-🌱 Currently learning advanced backend development, AI integration, and exploring new frontiers in game design and interactivity. I also have a growing interest in fantasy and post-apocalyptic game genres.
-
-👯 Looking to collaborate on projects in game development, cybersecurity, AI, and education. I’m always open to new ideas and opportunities to collaborate with like-minded creators.
-
-🤖 Ask me about game development in Roblox Studio, Unity, or creating websites with JavaScript, Node.js, and React. I also love helping others with game mechanics, AI integration, or creating educational content.
-
-⚡️ Fun fact: I’ve created over 10 educational projects and continue to inspire my students to explore technology independently. I also use neural networks like GPT for code improvement, optimization, and project management.
+🌍 **Full-stack Developer | Game Creator | Educator**  
+📧 **web3.p3@gmail.com**
 
 ---
-   
+
+👨‍🏫 **Computer Science Teacher**, with over 10 years of experience working with children and 4 years teaching computer science in schools. I've authored interactive methodologies and developed educational projects in **Roblox Studio**. My expertise covers a wide range of topics including game development, programming education, and full-stack web development.
+
+🔭 **Currently working on** developing interactive games, bots, and websites. I am passionate about creating engaging educational tools and fun games for different platforms, such as **Roblox** and **Unity**.
+
+🌱 **Currently learning** advanced backend development, AI integration, and exploring new frontiers in game design and interactivity. I also have a growing interest in fantasy and post-apocalyptic game genres.
+
+👯 **Looking to collaborate on** projects in game development, cybersecurity, AI, and education. I’m always open to new ideas and opportunities to collaborate with like-minded creators.
+
+🤖 **Ask me about** game development in **Roblox Studio**, **Unity**, or creating websites with **JavaScript**, **Node.js**, and **React**. I also love helping others with game mechanics, AI integration, or creating educational content.
+
+⚡️ **Fun fact:** I’ve created over 10 educational projects and continue to inspire my students to explore technology independently. I also use neural networks like GPT for code improvement, optimization, and project management.
+
+---
 
 ## Connect with me:
 
@@ -37,28 +35,28 @@ RuslanIskenderov/RuslanIskenderov is a ✨ _special_ ✨ repository because its 
 
 ---
 
----
- [Roblox](https://www.roblox.com/users/4058758679/profile#!/about)
 ## 🚀 Projects
 
 Here are some of my top projects where I worked on everything from concept to final execution:
 
 | Project Name                    | Description                                     | Link                                                                 |
 |----------------------------------|-------------------------------------------------|----------------------------------------------------------------------|
-| 🏰 Castle Parkour Quest      | Challenging parkour game in Roblox              | [Play Now](https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest)  |
-| 🚀 Stellar Sprint 2D (BETA)  | Fast-paced 2D space adventure                   | [Play Now](https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA) |
-| ⛏️ Minecraft in Roblox       | Minecraft-inspired survival and creativity      | [Play Now](https://www.roblox.com/games/18874295174/Minecraft-in-Roblox)        |
-| 🐸 Frog (BETA)               | Fun and dynamic platforming experience          | [Play Now](https://www.roblox.com/games/18765080658/BETA-Frog)                  |
-| 🏥 Medical Darkness          | Hospital horror escape game                     | [Play Now](https://www.roblox.com/games/15964209128/Medical-Darkness)           |
-| 🧟 Zombie Attack             | Defend yourself from waves of zombies           | [Play Now](https://www.roblox.com/games/14245011384/zombie-attack)              |
-| 😈 Horror[2025]              | Can you survive in the maze?                    | [Play Now](https://www.roblox.com/games/131614383251689/Horror-2025)            |
+| 🏰 **Castle Parkour Quest**      | Challenging parkour game in Roblox              | [Play Now](https://www.roblox.com/games/119322351654384/Castle-Parkour-Quest)  |
+| 🚀 **Stellar Sprint 2D (BETA)**  | Fast-paced 2D space adventure                   | [Play Now](https://www.roblox.com/games/18981767096/BETA-Stellar-Sprint-2D-BETA) |
+| ⛏️ **Minecraft in Roblox**       | Minecraft-inspired survival and creativity      | [Play Now](https://www.roblox.com/games/18874295174/Minecraft-in-Roblox)        |
+| 🐸 **Frog (BETA)**               | Fun and dynamic platforming experience          | [Play Now](https://www.roblox.com/games/18765080658/BETA-Frog)                  |
+| 🏥 **Medical Darkness**          | Hospital horror escape game                     | [Play Now](https://www.roblox.com/games/15964209128/Medical-Darkness)           |
+| 🧟 **Zombie Attack**             | Defend yourself from waves of zombies           | [Play Now](https://www.roblox.com/games/14245011384/zombie-attack)              |
+| 😈 **Horror[2025]**              | Can you survive in the maze?                    | [Play Now](https://www.roblox.com/games/131614383251689/Horror-2025)            |
+| 🏃 **Challenge Run Obby**        | Test your skills in this challenging obby       | [Play Now](https://www.roblox.com/games/120396739913396/Challenge-Run-Obby)     |
+| 🔥 **DOIDEP**                    | A mysterious and thrilling adventure            | [Play Now](https://www.roblox.com/games/95858979503046/DOIDEP)                  |
+
 ---
 
 ## 💻 My Technical Skills
 
 Here’s a detailed list of the programming languages, tools, and technologies I actively work with:
 
-Руслан Искендеров シ, [31.03.2025 11:16]
 ### Languages:
 ![Lua](https://img.shields.io/badge/-Lua-blue?logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
@@ -80,25 +78,15 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?logo=graphql)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery)
 ![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=api)
-![API](https://img.shields.io/badge/-API-lightgrey?logo=api)
 ![Arduino](https://img.shields.io/badge/-Arduino-blue?logo=arduino)
 ![STM32](https://img.shields.io/badge/-STM32-blue?logo=stm32)
-![Robotics](https://img.shields.io/badge/-Robotics-blue?logo=robotics)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-green?logo=raspberrypi)
-
-### Environments:
-- Roblox Studio: Game development, scripting in Lua, educational projects
-- Unity: Game design, C# scripting, 3D modeling
-- Web Development: JavaScript (React, Node.js), TypeScript, HTML, CSS
-- Back-end Development: API development (REST, GraphQL), databases (PostgreSQL), server management
-- Embedded Systems: Arduino, STM32, robotics
-- Raspberry Pi: Microprocessor-based projects, hardware interfacing
 
 ---
 
 ## 🎓 Education
 
-📚 LISK MSU — Specialist in Cybersecurity (Advanced course). My background in cybersecurity provides me with an extra layer of understanding in developing secure and reliable applications and systems.
+📚 **LISK MSU** — Specialist in Cybersecurity (Advanced course). My background in cybersecurity provides me with an extra layer of understanding in developing secure and reliable applications and systems.
 
 ---
 
@@ -106,7 +94,7 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 
 - 10+ years of experience working with children and in education
 - 4 years teaching computer science in schools
-- Created 10+ educational projects in Roblox Studio
+- Created 10+ educational projects in **Roblox Studio**
 - Proficient in multiple programming languages and game development platforms
 - Managed and mentored students to create their own projects
 
@@ -118,25 +106,9 @@ Here’s a detailed list of the programming languages, tools, and technologies I
 
 ---
 
-## 🌍 Recent Repositories
-
-Here are some of my public repositories where I focus on education, AI, and game development:
-
-- [Block Building Game](https://github.com/Horman69/block-building-game) — A game for kids to learn construction and basic programming concepts.
-- [AI Chatbot](https://github.com/Horman69/ai-chatbot) — A chatbot project with AI integration for educational purposes.
-- [School Website](https://github.com/Horman69/school-website) — Interactive website for school projects.
-
----
-
-## 📊 Languages Used in Repositories
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horman69&theme=radical)
-
----
-
 ## 🏃‍♂️ Hobbies and Interests
 
 In my free time, I enjoy:
-- Sports: Running, snowboarding, mountain climbing, and hiking
-- Creative Work: Creating virtual worlds, exploring new technologies, and expanding my expertise in game design
-- AI & Neural Networks: Exploring how AI can be integrated into games and educational projects for enhanced user experience
+- **Sports:** Running, snowboarding, mountain climbing, and hiking
+- **Creative Work:** Creating virtual worlds, exploring new technologies, and expanding my expertise in game design
+- **AI & Neural Networks:** Exploring how AI can be integrated into games and educational projects for enhanced user experience
