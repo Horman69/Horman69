@@ -41,6 +41,8 @@ Here are some of my top projects where I worked on everything from concept to fi
 
 | Project Name                    | Description                                     | Link                                                                 |
 |----------------------------------|-------------------------------------------------|----------------------------------------------------------------------|
+| 🔥 **ARCHERY FIGHT**             |Archery system      NEW     🔥                  | [Play Now](https://www.roblox.com/games/130931281413556/)
+| 🔥 **Pets**                      |Optimization        NEW     🔥                  | [Play Now](https://www.roblox.com/games/76983298806669/)                         |
 | 🔥 **Balls**                     |Inside the Tesseract 🌀      NEW                | [Play Now](https://www.roblox.com/games/105958641748124/)                        |
 | 🔥 **DOIDEP**                    | A mysterious and thrilling adventure            | [Play Now](https://www.roblox.com/games/95858979503046/DOIDEP)                  |
 | 🏃 **Challenge Run Obby**        | Test your skills in this challenging obby       | [Play Now](https://www.roblox.com/games/120396739913396/Challenge-Run-Obby)     |
