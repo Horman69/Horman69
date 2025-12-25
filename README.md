@@ -41,6 +41,7 @@ Here are some of my top projects where I worked on everything from concept to fi
 
 | Project Name                    | Description                                     | Link                                                                 |
 |----------------------------------|-------------------------------------------------|----------------------------------------------------------------------|
+| 🔥 **INTUITION**                 | Web-game           NEW     🔥                  | [Play Now]([https://www.roblox.com/games/76983298806669/](https://intuition-game-2-0.vercel.app/))                         |
 | 🔥 **ARCHERY FIGHT**             |Archery system      NEW     🔥                  | [Play Now](https://www.roblox.com/games/130931281413556/)
 | 🔥 **Pets**                      |Optimization        NEW     🔥                  | [Play Now](https://www.roblox.com/games/76983298806669/)                         |
 | 🔥 **Balls**                     |Inside the Tesseract 🌀      NEW                | [Play Now](https://www.roblox.com/games/105958641748124/)                        |
