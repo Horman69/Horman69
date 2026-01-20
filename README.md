@@ -31,40 +31,54 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 **Backend:** Node.js, Telegraf, PM2, REST APIs, VPS Deployment  
 **Frontend:** React, Next.js, Three.js, GSAP, Supabase  
-**Game Dev:** Roblox Studio, Luau, 3D Modeling, SOLID Architecture
+**Game Dev:** Roblox Studio, Luau, 3D Modeling, SOLID Architecture  
+**Desktop:** Electron, WireGuard, Windows Apps
 
 ---
 
 ## ⭐ Highlighted Projects
 
 ### 🤖 [Telegram Announcement Bot](https://github.com/Horman69/telegram-announcement-bot)
-Enterprise bot with **21 command modules**, production deployment on VPS with PM2. Manages 10+ groups, automated backups, forum support.  
-`Node.js` `Telegraf` `PM2` `Ubuntu Server`
+**Production backend on VPS** with **21 command modules**, PM2 deployment, systemd auto-start. Manages 10+ groups with automated daily backups, forum topic support, template system.  
+`Node.js 20` `Telegraf 4.16` `PM2` `Ubuntu Server` `Cron`
+
+### 🏫 [EduCamp School Website](https://educampvietnam.ru)
+**Official Russian school website** built for real educational institution in Vietnam. Full **GOST compliance** (14 mandatory sections per Federal Law №1493), 4 accessibility modes for visually impaired, Schema.org microdata, production deployment.  
+`Next.js 16` `React 19` `TypeScript` `Legislative Compliance`
 
 ### 💰 [Finance App](https://finance-app.vercel.app)
-Personal finance management with **7 modules**, offline-first architecture, Telegram Mini App integration.  
+Personal finance management with **7 independent modules** (transactions, investments, debts, goals), **offline-first** architecture with LocalForage, Telegram Mini App integration, Feature-Sliced Design pattern.  
 `React 19` `TypeScript` `LocalForage` `Telegram WebApp API`
 
-### 🎮 [RoactShopSystem 2.0](https://github.com/Horman69/RoactShopSystem_2.0)
-Roblox developer framework with **SOLID architecture**, strict typing, 92/100 quality score.  
-`Luau` `Rojo` `ModuleScript` `OOP`
+### 🔒 [Visual Proxy Network](https://github.com/Horman69/visual-proxy-network)
+**Enterprise Windows VPN client** with WireGuard integration, multi-layer safety architecture, automatic connection management, system tray integration, production Electron desktop app.  
+`Electron` `TypeScript` `WireGuard` `Windows`
 
-### 🎯 [Intuition Game](https://intuition-game-2-0.vercel.app)
-Multiplayer card game with **AI opponent**, realtime Supabase sync, Telegram Mini App.  
-`Next.js 15` `Supabase Realtime` `AI Bot`
+### 🎮 [RoactShopSystem 2.0](https://github.com/Horman69/RoactShopSystem_2.0)
+Roblox **developer framework** with **SOLID architecture**, strict Luau typing, **92/100 quality score**, modular MVC pattern, reusable component system for game economies.  
+`Luau` `Rojo 7.0` `SOLID` `OOP`
 
 <details>
 <summary>🎮 More Roblox Projects</summary>
 
 - **[Archery Fight](https://www.roblox.com/games/130931281413556/)** - PvP shooter with real physics (3.5K+ visits)
-- **[DOIDEP Tea Lounge](https://www.roblox.com/games/95858979503046/)** - Commercial project for real tea company
+- **[DOIDEP Tea Lounge](https://www.roblox.com/games/95858979503046/)** - Commercial project for Vietnamese tea company, 50+ custom 3D models
 - **[Challenge Run Obby](https://www.roblox.com/games/120396739913396/)** - Extreme difficulty obby (19.9K+ visits)
-- **[Inside the Tesseract](https://www.roblox.com/games/105958641748124/)** - Multiplayer mini-game with FSM
-- **[Analytics System](https://github.com/Horman69/RobloxAnalyticsSystem)** - Modular analytics framework
+- **[Inside the Tesseract](https://www.roblox.com/games/105958641748124/)** - Multiplayer mini-game with server-authoritative FSM
+- **[Analytics System](https://github.com/Horman69/RobloxAnalyticsSystem)** - Modular analytics framework (6-system architecture)
+
+</details>
+
+<details>
+<summary>🌐 More Web Projects</summary>
+
+- **[PRO_CODE Landing](https://pro-code-web3.ru)** - Marketing website for IT education school (production)
+- **[SharkDraw](https://shark-draw.vercel.app)** - Collaborative drawing app with WebSocket realtime sync
+- **[Intuition Game](https://intuition-game-2-0.vercel.app)** - Multiplayer card game with AI, Telegram Mini App
 
 </details>
 
