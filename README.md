@@ -28,15 +28,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 **Backend:** Node.js, Telegraf, PM2, REST APIs, VPS Deployment  
 **Frontend:** React, Next.js, Three.js, GSAP, Supabase  
-**Game Dev:** Roblox Studio, Luau, 3D Modeling, SOLID Architecture  
-**Desktop:** Electron, WireGuard, Windows Apps
+**Desktop:** Python PyQt5, Electron, WireGuard, Windows Apps  
+**Game Dev:** Roblox Studio, Luau, 3D Modeling, SOLID Architecture
 
 ---
 
@@ -74,10 +74,10 @@ Roblox **developer framework** with **SOLID architecture**, strict Luau typing, 
 </details>
 
 <details>
-<summary>🌐 More Web Projects</summary>
+<summary>🖥️ Desktop & Web Projects</summary>
 
-- **[PRO_CODE Landing](https://pro-code-web3.ru)** - Marketing website for IT education school (production)
-- **[SharkDraw](https://shark-draw.vercel.app)** - Collaborative drawing app with WebSocket realtime sync
+- **[SharkDraw](https://github.com/Horman69/SharkDraw)** - Desktop drawing app with transparent overlay (Python PyQt5, 6 tools)
+- **[PRO_CODE Landing](https://pro-code-p3.vercel.app)** - Marketing website for IT education school
 - **[Intuition Game](https://intuition-game-2-0.vercel.app)** - Multiplayer card game with AI, Telegram Mini App
 
 </details>
