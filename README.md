@@ -14,9 +14,10 @@
 
 ## 🚀 Full-Stack Developer | Game Creator | Educator
 
-**Mid-Level Developer** passionate about building production apps and interactive games. Proficient in **Node.js backend**, **React/Next.js**, and **Roblox development**. Background in cybersecurity and 10+ years teaching computer science.
+**Mid-Level Developer** building production apps and interactive games. Proficient in **Node.js backend**, **React/Next.js**, and **Roblox development**. Background in cybersecurity.
 
-📍 Vietnam | 🎓 LISK MSU (Cybersecurity Specialist)
+📍 Vietnam | 🎓 LISK MSU (Cybersecurity Specialist)  
+👨‍🏫 **10+ years** working with children | **5 years** teaching experience
 
 ---
 
