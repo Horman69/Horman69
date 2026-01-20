@@ -50,9 +50,9 @@
 **Official Russian school website** built for real educational institution in Vietnam. Full **GOST compliance** (14 mandatory sections per Federal Law №1493), 4 accessibility modes for visually impaired, Schema.org microdata, production deployment.  
 `Next.js 16` `React 19` `TypeScript` `Legislative Compliance`
 
-### 💰 [Finance App](https://finance-app.vercel.app)
-Personal finance management with **7 independent modules** (transactions, investments, debts, goals), **offline-first** architecture with LocalForage, Telegram Mini App integration, Feature-Sliced Design pattern.  
-`React 19` `TypeScript` `LocalForage` `Telegram WebApp API`
+### 🎯 [Intuition Game](https://intuition-game-2-0.vercel.app)
+**Multiplayer card game** with adaptive **AI opponent** (4 difficulty levels), realtime Supabase sync, **Telegram Mini App** integration. 765-line TypeScript service, 84-line AI bot system, encrypted deck distribution, cross-platform compatibility.  
+`Next.js 15` `Supabase Realtime` `AI Bot` `Telegram WebApp API`
 
 ### 🔒 [Visual Proxy Network](https://github.com/Horman69/visual-proxy-network)
 **Enterprise Windows VPN client** with WireGuard integration, multi-layer safety architecture, automatic connection management, system tray integration, production Electron desktop app.  
@@ -76,9 +76,9 @@ Roblox **developer framework** with **SOLID architecture**, strict Luau typing, 
 <details>
 <summary>🖥️ Desktop & Web Projects</summary>
 
+- **[Finance App](https://finance-app.vercel.app)** - Personal finance management (7 modules, offline-first, Telegram Mini App)
 - **[SharkDraw](https://github.com/Horman69/SharkDraw)** - Desktop drawing app with transparent overlay (Python PyQt5, 6 tools)
 - **[PRO_CODE Landing](https://pro-code-p3.vercel.app)** - Marketing website for IT education school
-- **[Intuition Game](https://intuition-game-2-0.vercel.app)** - Multiplayer card game with AI, Telegram Mini App
 
 </details>
 
